@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Liezelm
-- 👀 I’m interested in learning Shell Script
+- 👀 I’m interested in learning all about Bash
 - 🌱 I’m currently learning to use the environment
 - 📫 How to reach me via email @ liezelm@our.ecu.edu.au
 
